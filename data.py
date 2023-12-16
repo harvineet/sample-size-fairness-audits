@@ -2,6 +2,10 @@
 # coding: utf-8
 
 '''
+
+Source file: disparity-variation
+at https://github.com/ChunaraLab/disparity-variation/blob/7273ff9e296cc47b28d690217d7ee764073e3cd6/data.py
+
 Code for reading ACS, BRFSS datasets
 '''
 
